@@ -1,3 +1,3 @@
-Payment manager is a project I built as part of my Kotlin course on Jetbrains.
+Payment manager is a project I built as part of my Kotlin course on Hyperskill.
 
-The project helps a cinema manage it's payment.
+The project helps a cinema manage its payment.
